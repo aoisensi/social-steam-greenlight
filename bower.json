@@ -1,0 +1,25 @@
+{
+  "name": "social-steam-greenlight",
+  "version": "0.1.0",
+  "authors": [
+    "aoisensi <aoisensi@mail.com>"
+  ],
+  "description": "steam greenlight widget polymer element",
+  "main": "social-steam-greenlight.html",
+  "keywords": [
+    "steam",
+    "polymer",
+    "webcomponents"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "~0.5.5"
+  }
+}
